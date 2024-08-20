@@ -1,0 +1,5 @@
+- **Create new user**
+- here we can create a new user by entering few specified details
+- by filling specifications like user,email,password and address
+- password will be confirmed by double verification
+- We have used html to create the page
